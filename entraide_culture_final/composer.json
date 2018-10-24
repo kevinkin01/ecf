@@ -1,0 +1,6 @@
+{
+    "require": {
+        "swiftmailer/swiftmailer": "^6.1",
+        "coffeecode/uploader": "^1.0"
+    }
+}
