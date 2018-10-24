@@ -145,7 +145,7 @@
              grid-column: 1/3;
                 margin-top: 45px;
                 ">
-            <div class="titleInfo">Nos partenaires</div>
+            <div class="titleInfo">Nos soutiens</div>
             <div class="padbot30">
                 <div class="row clients_wrap">
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
