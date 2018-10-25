@@ -57,11 +57,17 @@ if(!$recup){
 <form name="oneName2" action="" method="post">
 
 <div class="form-group row">
-    <label for="lthetitle" class="col-sm-2 col-form-label">Titre</label>
-    <div class="col-sm-10">
-      <input type="text" name="thetitle" class="form-control" id="lthetitle" placeholder="Entrez le titre de l'article" value="<?=$recup2->getThetitle()?>">
+        <label for="lthetitle" class="col-sm-2 col-form-label">Titre</label>
+        <div class="col-sm-10">
+            <input type="text" name="thetitle" class="form-control" id="lthetitle" placeholder="Entrez le titre de l'article" value="<?=$recup2->getThetitle()?>">
+        </div>
     </div>
-</div>
+    <div class="form-group row">
+        <label for="lthetitle" class="col-sm-2 col-form-label">Sous-titre</label>
+        <div class="col-sm-10">
+            <input type="text" name="soustitre" class="form-control" id="lthetitle" placeholder="Entrez le soustitre de l'article" value="<?=$recup2->getSoustitre()?>">
+        </div>
+    </div>
 <div class="form-group row">
     <label for="lthedate" class="col-sm-2 col-form-label">Date</label>
     <div class="col-sm-10">

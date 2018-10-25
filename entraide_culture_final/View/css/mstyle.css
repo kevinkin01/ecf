@@ -622,7 +622,7 @@ h6 {
     background-repeat: no-repeat;
     background-image: url(../img/globe-yellow.png);
     /* border-top: 1px solid #f5b435; */
-    margin-bottom: 47px;
+    /* margin-bottom: 47px; */
 }
 
 /*--HEADER---------------------------------------------------------------------------------*/
@@ -1116,7 +1116,7 @@ a.imageArticle1:hover img {
 .clients_wrap a {
     display: block;
     opacity: 0.7;
-    filter: sepia(100%);
+    /* filter: sepia(100%); */
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1445,7 +1445,7 @@ a.imageArticle1:hover img {
     text-align: left;
     font-family: 'Oswald', sans-serif !important;
     padding-top: 0px!important;
-    padding-bottom: 37px;
+    padding-bottom: 154px;
     /* padding-left: 40px; */
 }
 

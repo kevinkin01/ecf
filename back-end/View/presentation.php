@@ -84,17 +84,18 @@
 
             <script type="text/javascript">
                 function afficheGrandePhoto(imageCliquee) {
+
+
                     /* je récupère dans l'attribut alt de l'image cliquée son nom */
                     console.log("afficheGrandePhoto : " + imageCliquee.alt);
                     /* URL de la vignette cliquée ? */
                     var URLvignette = imageCliquee.getAttribute("src");
                     console.log("URL de la photo cliquée : " + URLvignette);
                     /* Enlever dans l'URL de ma vignette le "128" et le remplacer par "512" pour avoir l'URL de la grande photo correspondante */
-                    var URLgrandephoto = URLvignette.substr(0,(URLvignette.length - 7)) + "512.jpg";
-                    console.log(URLgrandephoto);
+
                     /* Modifier l'attribut src de la grande photo */
                     var grandePhoto = document.querySelector("#grandephoto img");
-                    grandePhoto.setAttribute("src", URLgrandephoto);
+                    grandePhoto.setAttribute("src", URLvignette);
                     grandePhoto.setAttribute("alt", imageCliquee.alt);
                 }
             </script>
@@ -105,11 +106,14 @@
                 </section>
                 <section id="vignettes">
                     <ul>
-                        <li><img src="View/images/gallery/brico_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
-                        <li><img src="View/images/gallery/group_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);"/></li>
-                        <li><img src="View/images/gallery/murs_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
-                        <li><img src="View/images/gallery/skeleton_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
-                        <li><img src="View/images/gallery/tapis_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
+                        <?php
+
+                        foreach ($slider as $item0) {
+                            ?>
+
+
+                        <li><img src="<?=$item0['image'];?>" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
+                        <?php } ?>
                     </ul>
                 </section>
             </div>
@@ -123,7 +127,8 @@
                 $take = $listView[1];
                 echo $take->getThetitle();
                 ?></div>
-            <h2>sommes-nous ?</h2>
+            <h2><?php echo $take->getSoustitre();
+                ?></h2>
             <div class="paraPresentation">
                 <h2></h2>
                 <br>

@@ -7,7 +7,7 @@
 class Article
 {
     # aaa020 mapping table article
-    private $idarticle, $thetitle, $thetext, $thedate, $authoridauthor,$categoryidcategory;
+    private $idarticle, $thetitle,$soustitre, $thetext, $thedate, $authoridauthor,$categoryidcategory;
 
     # aaa057 attributs from table util for JOIN (see ArticleManager.class.php)
     private $idauthor, $thelogin, $thename;
@@ -42,7 +42,7 @@ class Article
 
     public function setThetitle(string $thetitle)
     {
-        $check = trim(htmlspecialchars(strip_tags($thetitle),ENT_QUOTES));
+        $check = trim(htmlspecialchars(strip_tags($thetitle)),ENT_QUOTES);
         if(!empty($check)) {
             $this->thetitle = $check;
         }
@@ -170,5 +170,25 @@ class Article
     {
         return html_entity_decode($this->thename);
     }
+
+    /**
+     * @return mixed
+     */
+    public function getSoustitre()
+    {
+        return html_entity_decode($this->soustitre);
+    }
+
+    /**
+     * @param mixed $soustitre
+     */
+    public function setSoustitre($soustitre): void
+    {
+        $check = trim(htmlspecialchars(strip_tags($soustitre)),ENT_QUOTES);
+        if(!empty($check)) {
+            $this->soustitre = $check;
+        }
+    }
+
 
 }

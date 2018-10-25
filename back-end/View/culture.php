@@ -73,11 +73,7 @@
     <!---------------conteneur culture------------------->
     <div id="conteneur">
         <div class=column_A>
-            <div class=zoom>
-                <div class="col-lg-1 padbot30 gallery_img lorem">
-                    <a href="View/img/culture.png" data-gal="prettyPhoto[gal]"><i></i><img src="View/img/culture.png" alt="" style="width: 100%;" /></a>
-                </div>
-            </div>
+        </div>
             <div class="imagePara">
                 <p>L’ASBL Entraide et Culture, créée en 1983 à Forest par des bénévoles, apporte une aide et un soutien à un public précarisé et fragilisé.</p>
             </div>
@@ -90,9 +86,10 @@
                 <button class="tablink" onclick="text(event, 'Ecole')">Ecole de devoirs</button>
                 <button class="tablink" onclick="text(event, 'Ntic')">N.T.I.C</button>
             </div>
-            <div class="titleParaPoleCulture">Pôle</div>
+
 
             <div id="Culture" class="tabcontent1">
+                <div class="titleParaPoleCulture">Pôle</div>
                 <h2><?php
                     $take = $listView[5];
                     echo $take->getThetitle();

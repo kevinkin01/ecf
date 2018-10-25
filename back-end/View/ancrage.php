@@ -121,7 +121,8 @@
                     $take = $listView[0];
                     echo $take->getThetitle();
                     ?></div>
-                <h2>local</h2>
+                <h2><?php echo $take->getSoustitre();
+                    ?></h2>
                 <div id="myDIVpresentation"></div>
 
                 <div class="paraPresentation">

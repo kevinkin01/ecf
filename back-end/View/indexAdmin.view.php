@@ -25,6 +25,7 @@ include "View/menu.view.php";
     <tr>
       <th scope="col">Date</th>
       <th scope="col">Titre</th>
+        <th scope="col">Sous-titre</th>
       <th scope="col">Catégorie</th>
       <th scope="col">Options</th>
     </tr>
@@ -43,6 +44,7 @@ if(!is_array($affiche)){
     <tr>
       <th scope="row"><?= $item->getThedate();?></th>
       <td><?= $item->getThetitle(); ?></td>
+        <td><?= $item->getSoustitre(); ?></td>
       <td><?= $item->getThecategtitle();?></td>
       <td><a href="?update=<?=$item->getIdarticle()?>"><button type="button" class="btn btn-primary btn-sm">Modifier</button></a>
 <button type="button" class="btn btn-secondary btn-sm" onclick="Delete(<?=$item->getIdarticle()?>);">Supprimer</button></td>

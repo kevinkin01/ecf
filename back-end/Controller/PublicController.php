@@ -6,6 +6,8 @@ $ArticleM = new ArticleManager($pdo);
 
 $UtilM = new AuthorManager($pdo);
 
+$AccueilM = new AccueilManager($pdo);
+$slider = $AccueilM->listSlider();
 if(isset($_GET['login'])) {
 
     if(empty($_POST)){

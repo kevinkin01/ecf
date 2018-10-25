@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f972418-3b45-45f1-b2c5-ea5351aab647" name="Default" comment="" />
+    <list default="true" id="8f972418-3b45-45f1-b2c5-ea5351aab647" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/back-end/Datas/entraide_culture.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entraide_culture_final/View/img/CO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entraide_culture_final/View/img/RE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Datas/entraide_culture final.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Model/Article.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Model/Article.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/ancrage.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/ancrage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Model/Article.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Model/Article.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/css/mbootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/css/mbootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/css/mstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/css/mstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/img/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/img/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/infos.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/infos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/m.accueil.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/m.accueil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/m.infos.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/m.infos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/m.menu.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/m.menu.view.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +47,17 @@
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="138" />
           <entry key="js" value="3" />
-          <entry key="php" value="3373" />
+          <entry key="php" value="3589" />
           <entry key="sql" value="16" />
         </counts>
       </usages-collector>
@@ -46,7 +65,7 @@
         <counts>
           <entry key="CSS" value="138" />
           <entry key="JavaScript" value="3" />
-          <entry key="PHP" value="3373" />
+          <entry key="PHP" value="3589" />
           <entry key="SQL" value="16" />
         </counts>
       </usages-collector>
@@ -56,15 +75,16 @@
           <entry key="LICENSE" value="1" />
           <entry key="PNG" value="1" />
           <entry key="README" value="1" />
-          <entry key="css" value="11" />
+          <entry key="css" value="12" />
           <entry key="gitignore" value="2" />
           <entry key="html" value="1" />
-          <entry key="js" value="4" />
+          <entry key="jpg" value="14" />
+          <entry key="js" value="6" />
           <entry key="json" value="1" />
           <entry key="lock" value="1" />
           <entry key="md" value="1" />
-          <entry key="php" value="231" />
-          <entry key="png" value="4" />
+          <entry key="php" value="264" />
+          <entry key="png" value="6" />
           <entry key="rnc" value="1" />
           <entry key="sql" value="3" />
           <entry key="xml" value="1" />
@@ -72,13 +92,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="11" />
+          <entry key="CSS" value="12" />
           <entry key="HTML" value="1" />
-          <entry key="Image" value="5" />
+          <entry key="Image" value="21" />
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="4" />
+          <entry key="JavaScript" value="6" />
           <entry key="Markdown" value="1" />
-          <entry key="PHP" value="231" />
+          <entry key="PHP" value="264" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="RNG Compact" value="1" />
           <entry key="SQL" value="3" />
@@ -124,83 +144,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/back-end/View/culture.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1035">
-              <caret line="89" column="79" selection-start-line="89" selection-start-column="79" selection-end-line="89" selection-end-column="79" />
+            <state relative-caret-position="163">
+              <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back-end/View/createArticleAdmin.view.php">
+        <entry file="file://$PROJECT_DIR$/back-end/View/presentation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back-end/View/connect.view.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="189">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/back-end/View/infos.php">
+        <entry file="file://$PROJECT_DIR$/back-end/View/entraide.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="147" column="47" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="47" />
+            <state relative-caret-position="347">
+              <caret line="101" column="25" lean-forward="true" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
               <folding>
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back-end/View/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="1861" column="16" selection-start-line="1861" selection-start-column="16" selection-end-line="1861" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back-end/View/donwload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back-end/View/css/flexslider.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1980" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back-end/View/css/font-awesome.min.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back-end/View/css/prettyPhoto.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-567" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back-end/View/css/responsive.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2754" />
           </provider>
         </entry>
       </file>
@@ -226,18 +193,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/back-end" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/asset/bootstrap/css/jumbotron.css" />
-        <option value="$PROJECT_DIR$/website/indx.php" />
-        <option value="$PROJECT_DIR$/website/View/verif-form.php" />
-        <option value="$PROJECT_DIR$/website/index.html" />
-        <option value="$PROJECT_DIR$/website/View/Ancrage local.php" />
-        <option value="$PROJECT_DIR$/website/model/Article.class.php" />
-        <option value="$PROJECT_DIR$/website/model/Util.class.php" />
         <option value="$PROJECT_DIR$/website/model/UtilManager.class.php" />
         <option value="$PROJECT_DIR$/website/model/ArticleManager.class.php" />
         <option value="$PROJECT_DIR$/website/model/category.class.php" />
@@ -259,29 +219,36 @@
         <option value="$USER_HOME$/Desktop/crud-juin-2018/config.php" />
         <option value="$PROJECT_DIR$/back-end/View/connect.view.php" />
         <option value="$PROJECT_DIR$/back-end/Model/ArticleManager.class.php" />
-        <option value="$PROJECT_DIR$/back-end/View/menu.view.php" />
         <option value="$PROJECT_DIR$/back-end/Model/AuthorManager.class.php" />
         <option value="$PROJECT_DIR$/back-end/Datas/entraide_culture.sql" />
         <option value="$PROJECT_DIR$/back-end/View/upload.php" />
         <option value="$PROJECT_DIR$/back-end/index.php" />
         <option value="$PROJECT_DIR$/abdoul.php" />
         <option value="$PROJECT_DIR$/back-end/View/configFormulaire.php" />
-        <option value="$PROJECT_DIR$/back-end/Model/Article.class.php" />
         <option value="$PROJECT_DIR$/back-end/View/css/style.css" />
-        <option value="$PROJECT_DIR$/back-end/config.php" />
         <option value="$PROJECT_DIR$/back-end/View/createArticleAdmin.view.php" />
         <option value="$PROJECT_DIR$/back-end/View/editor-upload.php" />
-        <option value="$PROJECT_DIR$/back-end/View/updateArticleAdmin.view.php" />
         <option value="$PROJECT_DIR$/back-end/View/index.php" />
-        <option value="$PROJECT_DIR$/back-end/View/culture.php" />
         <option value="$PROJECT_DIR$/back-end/View/accueil.php" />
-        <option value="$PROJECT_DIR$/back-end/View/ancrage.php" />
         <option value="$PROJECT_DIR$/back-end/View/asbl.php" />
-        <option value="$PROJECT_DIR$/back-end/View/entraide.php" />
-        <option value="$PROJECT_DIR$/back-end/View/presentation.php" />
-        <option value="$PROJECT_DIR$/back-end/Controller/PublicController.php" />
         <option value="$PROJECT_DIR$/back-end/View/donwload.php" />
         <option value="$PROJECT_DIR$/back-end/View/infos.php" />
+        <option value="$PROJECT_DIR$/back-end/config.php" />
+        <option value="$PROJECT_DIR$/back-end/Model/Article.class.php" />
+        <option value="$PROJECT_DIR$/entraide_culture_final/config.php" />
+        <option value="$PROJECT_DIR$/back-end/View/ancrage.php" />
+        <option value="$PROJECT_DIR$/back-end/View/updateArticleAdmin.view.php" />
+        <option value="$PROJECT_DIR$/back-end/View/indexAdmin.view.php" />
+        <option value="$PROJECT_DIR$/back-end/View/menu.view.php" />
+        <option value="$PROJECT_DIR$/back-end/Controller/AdminController.php" />
+        <option value="$PROJECT_DIR$/back-end/View/hautpage.view.php" />
+        <option value="$PROJECT_DIR$/back-end/Model/AccueilManager.class.php" />
+        <option value="$PROJECT_DIR$/back-end/View/updateSlider.view.php" />
+        <option value="$PROJECT_DIR$/back-end/Controller/PublicController.php" />
+        <option value="$PROJECT_DIR$/index.view.php" />
+        <option value="$PROJECT_DIR$/back-end/View/culture.php" />
+        <option value="$PROJECT_DIR$/back-end/View/presentation.php" />
+        <option value="$PROJECT_DIR$/back-end/View/entraide.php" />
       </list>
     </option>
   </component>
@@ -308,7 +275,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
+    <option name="x" value="700" />
+    <option name="y" value="56" />
     <option name="width" value="1012" />
     <option name="height" value="1047" />
   </component>
@@ -318,7 +286,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -335,12 +302,46 @@
               <item name="entraide_culture-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="entraide_culture-master" type="462c0819:PsiDirectoryNode" />
               <item name="back-end" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="entraide_culture-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entraide_culture-master" type="462c0819:PsiDirectoryNode" />
+              <item name="back-end" type="462c0819:PsiDirectoryNode" />
+              <item name="img-upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="entraide_culture-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entraide_culture-master" type="462c0819:PsiDirectoryNode" />
+              <item name="back-end" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="entraide_culture-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entraide_culture-master" type="462c0819:PsiDirectoryNode" />
+              <item name="back-end" type="462c0819:PsiDirectoryNode" />
               <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="entraide_culture-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entraide_culture-master" type="462c0819:PsiDirectoryNode" />
+              <item name="back-end" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="entraide_culture-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entraide_culture-master" type="462c0819:PsiDirectoryNode" />
+              <item name="back-end" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="script.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -350,19 +351,19 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\WEB2018\entraide_culture-master\back-end\View" />
-      <recent name="F:\WEB2018\entraide_culture-master\back-end\View\img" />
-      <recent name="F:\WEB2018\entraide_culture-master" />
-      <recent name="F:\WEB2018\entraide_culture-master\back-end\View\images" />
-      <recent name="F:\WEB2018\entraide_culture-master\back-end\Datas" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WEB2018\entraide_culture-master\back-end\Datas" />
       <recent name="F:\WEB2018\entraide_culture-master\back-end\View" />
       <recent name="F:\WEB2018\entraide_culture-master\back-end" />
       <recent name="F:\WEB2018\entraide_culture-master\website\Asset\js" />
       <recent name="F:\WEB2018\entraide_culture-master\website\Model" />
-      <recent name="F:\WEB2018\entraide_culture-master\website\View" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WEB2018\entraide_culture-master\back-end\Model" />
+      <recent name="F:\WEB2018\entraide_culture-master\back-end\View" />
+      <recent name="F:\WEB2018\entraide_culture-master\entraide_culture_final\Model" />
+      <recent name="F:\WEB2018\entraide_culture-master\back-end\View\img" />
+      <recent name="F:\WEB2018\entraide_culture-master" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -419,11 +420,12 @@
       <workItem from="1539848098932" duration="588000" />
       <workItem from="1539853218654" duration="31000" />
       <workItem from="1540375610203" duration="11984000" />
+      <workItem from="1540469522301" duration="7562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154669000" />
+    <option name="totallyTimeSpent" value="162231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -460,229 +462,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/back-end/Datas/entraide_culture.sql" />
-    <entry file="file://$PROJECT_DIR$/../entraide_culture-master - back up/back-end/View/ancrage.php" />
-    <entry file="file://$PROJECT_DIR$/back-end/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/upload.php" />
-    <entry file="file://$PROJECT_DIR$/back-end/View/images/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/back-end/View/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4050" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/egulias/email-validator/LICENSE" />
-    <entry file="file://$PROJECT_DIR$/composer.json" />
-    <entry file="file://$PROJECT_DIR$/composer.lock" />
-    <entry file="file://$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/CHANGES" />
-    <entry file="file://$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/README" />
-    <entry file="file://$PROJECT_DIR$/vendor/egulias/email-validator/README.md" />
-    <entry file="file://$PROJECT_DIR$/back-end/vendor/autoload.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/editor-upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/vendor/egulias/email-validator/EmailValidator/EmailValidator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/vendor/egulias/email-validator/EmailValidator/Validation/RFCValidation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abdoul.php" />
-    <entry file="file://$PROJECT_DIR$/back-end/Datas/entraide_culture final.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="64" lean-forward="true" selection-start-line="47" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/img-uploads/1539587723.png" />
-    <entry file="file://$PROJECT_DIR$/back-end/img-upload/1539588529.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/img-upload/1539588500.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/editor-upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/Model/Article.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/menu.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/img/facebook.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/ancrage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/accueil.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2857">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/contact/contact.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/configFormulaire.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2079">
-          <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/asbl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="141" selection-start-line="4" selection-start-column="141" selection-end-line="4" selection-end-column="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/Controller/AdminController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2322">
-          <caret line="86" column="38" selection-start-line="86" selection-start-column="38" selection-end-line="86" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/Controller/PublicController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/updateArticleAdmin.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/presentation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/indexAdmin.view.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/index.view.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="107" column="17" lean-forward="true" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/entraide.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3249">
-          <caret line="4" column="141" selection-start-line="4" selection-start-column="141" selection-end-line="4" selection-end-column="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/detail.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/culture.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1035">
-          <caret line="89" column="79" selection-start-line="89" selection-start-column="79" selection-end-line="89" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/createArticleAdmin.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/connect.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/css/flexslider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1980" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/css/prettyPhoto.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2754" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/back-end/View/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
+        <state relative-caret-position="50247">
           <caret line="1861" column="16" selection-start-line="1861" selection-start-column="16" selection-end-line="1861" selection-end-column="16" />
         </state>
       </provider>
@@ -694,12 +476,259 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/css/flexslider.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/css/prettyPhoto.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/back-end/View/infos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="147" column="47" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entraide_culture_final/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entraide_culture_final/Model/Article.class.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entraide_culture_final/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entraide_culture_final/View/css/mstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3888" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entraide_culture_final/View/m.accueil.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/ancrage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="124" column="22" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/asbl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2763">
+          <caret line="4" column="141" selection-start-line="4" selection-start-column="141" selection-end-line="4" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hautpage.view.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/updateSlider.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Model/Article.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="176" column="20" selection-start-line="176" selection-start-column="20" selection-end-line="176" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/indexAdmin.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Asset/js/myJs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/menu.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="112" column="1" lean-forward="true" selection-start-line="99" selection-start-column="2" selection-end-line="112" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/updateArticleAdmin.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215">
+          <caret line="67" column="162" selection-start-line="67" selection-start-column="162" selection-end-line="67" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/editor-upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Controller/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/hautpage.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="51" column="41" lean-forward="true" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Model/AccueilManager.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/updateSlider.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Controller/PublicController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#6#48#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/ae_128.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/ae_512.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/bike_128.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/bike_512.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/bourseAlimentaire_128.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/bourseAlimentaire_512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/child_128.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/child_512.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/ecrire_128.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/ecrire_512.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/fire_128.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/friends_512.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/fire_512.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/child.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/cercle_512.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/brico_512.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/js/jquery.flexslider-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/culture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/presentation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/entraide.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="101" column="25" lean-forward="true" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
