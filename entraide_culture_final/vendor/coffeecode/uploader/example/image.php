@@ -10,7 +10,7 @@
         
         if ($_FILES) {
             try {
-                $upload = $image->upload($_FILES['image'], $_POST['name']);
+                $upload = $image->upload($_FILES['image.class'], $_POST['name']);
                 echo "<img src='{$upload}' width='100%'>";
             } catch (Exception $e) {
                 echo "<p>(!) {$e->getMessage()}</p>";

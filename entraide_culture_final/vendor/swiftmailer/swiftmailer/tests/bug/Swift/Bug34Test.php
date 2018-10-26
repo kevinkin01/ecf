@@ -14,7 +14,7 @@ class Swift_Bug34Test extends \PHPUnit\Framework\TestCase
         $message->setSubject('test subject');
         $message->addPart('plain part', 'text/plain');
 
-        $image = new Swift_Image('<image data>', 'image.gif', 'image/gif');
+        $image = new Swift_Image('<image.class data>', 'image.class.gif', 'image.class/gif');
         $cid = $message->embed($image);
 
         $message->setBody('<img src="'.$cid.'" />', 'text/html');
@@ -58,12 +58,12 @@ class Swift_Bug34Test extends \PHPUnit\Framework\TestCase
         '<img.*?/>'.
         "\r\n\r\n".
         '--\\1'."\r\n".
-        'Content-Type: image/gif; name=image.gif'."\r\n".
+        'Content-Type: image.class/gif; name=image.class.gif'."\r\n".
         'Content-Transfer-Encoding: base64'."\r\n".
         'Content-ID: <'.$cidVal.'>'."\r\n".
-        'Content-Disposition: inline; filename=image.gif'."\r\n".
+        'Content-Disposition: inline; filename=image.class.gif'."\r\n".
         "\r\n".
-        preg_quote(base64_encode('<image data>'), '~').
+        preg_quote(base64_encode('<image.class data>'), '~').
         "\r\n\r\n".
         '--\\1--'."\r\n".
         "\r\n\r\n".

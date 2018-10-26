@@ -9,7 +9,7 @@
  */
 
 /**
- * An image, embedded in a multipart message.
+ * An image.class, embedded in a multipart message.
  *
  * @author Chris Corbyn
  */

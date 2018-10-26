@@ -15,9 +15,9 @@ class Image extends Uploader
      * @var array allowed media types
      */
     protected static $allowTypes = [
-        "image/jpeg",
-        "image/png",
-        "image/gif",
+        "image.class/jpeg",
+        "image.class/png",
+        "image.class/gif",
     ];
 
     /**
@@ -31,11 +31,11 @@ class Image extends Uploader
     public function upload(array $image, string $name, int $width = 2000, ?array $quality = null): string
     {
         if (empty($image['type'])) {
-            throw new \Exception("Not a valid data from image");
+            throw new \Exception("Not a valid data from image.class");
         }
 
         if (!$this->imageCreate($image)) {
-            throw new \Exception("{$image['type']} - Not a valid image type");
+            throw new \Exception("{$image['type']} - Not a valid image.class type");
         } else {
             $this->name($name);
         }
@@ -86,19 +86,19 @@ class Image extends Uploader
      */
     protected function imageCreate(array $image): bool
     {
-        if ($image['type'] == "image/jpeg") {
+        if ($image['type'] == "image.class/jpeg") {
             $this->file = imagecreatefromjpeg($image['tmp_name']);
             $this->ext = "jpg";
             return true;
         }
 
-        if ($image['type'] == "image/png") {
+        if ($image['type'] == "image.class/png") {
             $this->file = imagecreatefrompng($image['tmp_name']);
             $this->ext = "png";
             return true;
         }
 
-        if ($image['type'] == "image/gif") {
+        if ($image['type'] == "image.class/gif") {
             $this->ext = "gif";
             return true;
         }

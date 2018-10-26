@@ -39,7 +39,7 @@
 
 
 
-                            <div class="intro-1 text-white" style="background: url(<?=$item1['image'];?>)no-repeat center center;">
+                            <div class="intro-1 text-white" style="background: url(<?=$item1['image.class'];?>)no-repeat center center;">
                                 <div class="container" style="padding-bottom: 50px; height: 500px;">
 
                                 </div>

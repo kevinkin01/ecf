@@ -83,7 +83,7 @@
             </div>
 
             <script type="text/javascript">
-                function afficheGrandePhoto2(imageCliquee) {
+                function afficheGrandePhoto3(imageCliquee) {
                     /* je récupère dans l'attribut alt de l'image cliquée son nom */
                     console.log("afficheGrandePhoto : " + imageCliquee.alt);
                     /* URL de la vignette cliquée ? */
@@ -105,11 +105,11 @@
                 </section>
                 <section id="vignettes">
                     <ul>
-                        <li><img src="View/images/gallery/brico_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto2(this);" /></li>
-                        <li><img src="View/images/gallery/group_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto2(this);"/></li>
-                        <li><img src="View/images/gallery/murs_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto2(this);" /></li>
-                        <li><img src="View/images/gallery/skeleton_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto2(this);" /></li>
-                        <li><img src="View/images/gallery/tapis_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto2(this);" /></li>
+                        <li><img src="View/images/gallery/brico_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto3(this);" /></li>
+                        <li><img src="View/images/gallery/group_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto3(this);"/></li>
+                        <li><img src="View/images/gallery/murs_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto3(this);" /></li>
+                        <li><img src="View/images/gallery/skeleton_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto3(this);" /></li>
+                        <li><img src="View/images/gallery/tapis_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto3(this);" /></li>
                     </ul>
                 </section>
             </div>

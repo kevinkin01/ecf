@@ -16,7 +16,7 @@ class AccueilManager
         // $get = $this->db->query("SELECT a.* FROM article a ORDER BY a.thedate DESC;");
 
         # aaa060 - replace a38 recup all articles with JOIN author
-        $get = $this->db->query("SELECT * FROM 	accueil_image ");
+        $get = $this->db->query("SELECT * FROM 	accueil_image where id <10");
 
         # aaa039 => one or more result
         if($get->rowCount()){
@@ -30,13 +30,13 @@ class AccueilManager
             return false;
         }
     }
-    public function Slider($a,$b){
+    public function presentation(){
 
         # aaa038 - recup all articles without author at the moment
         // $get = $this->db->query("SELECT a.* FROM article a ORDER BY a.thedate DESC;");
 
         # aaa060 - replace a38 recup all articles with JOIN author
-        $get = $this->db->query("SELECT * FROM 	accueil_image LIMIT $a,$b;");
+        $get = $this->db->query("SELECT * FROM 	accueil_image where id <6 ");
 
         # aaa039 => one or more result
         if($get->rowCount()){
@@ -83,12 +83,12 @@ class AccueilManager
                 }
  
                 
-                $sql = "UPDATE accueil_image SET titre=:titre, image=:image WHERE id=:id";
+                $sql = "UPDATE accueil_image SET titre=:titre, image.class=:image.class WHERE id=:id";
                 $update = $this->db->prepare($sql);
                 # aaa123 execute with array for replace bindValue or bindParam without type verification
                 $update->execute(array(
                     ':titre' => $argument["thetitle"],
-                    ':image' => $destinationFilePath,
+                    ':image.class' => $destinationFilePath,
                     ':id' => $argument["idarticle"],
                     
              ));

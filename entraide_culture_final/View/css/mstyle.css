@@ -428,7 +428,7 @@ section {
     display: grid;
     padding: 54px 44px;
     background-color: #ffffffad;
-    /* background-image: url(../img/globe-yellow.png); */
+    /* background-image.class: url(../img/globe-yellow.png); */
     padding-bottom: 100%;
     width: 107%;
     border-top: 1px solid #fcbc20;
@@ -844,7 +844,7 @@ a.imageArticle img {
 }
 
 a.imageArticle:hover img {
-    /* L'image est grossie de 25% */
+    /* L'image.class est grossie de 25% */
     -webkit-transform: scale(1.25);
     /* Safari et Chrome */
     -moz-transform: scale(1.25);
@@ -877,7 +877,7 @@ a.imageArticle1 img {
 }
 
 a.imageArticle1:hover img {
-    /* L'image est grossie de 25% */
+    /* L'image.class est grossie de 25% */
     -webkit-transform: scale(1.25);
     /* Safari et Chrome */
     -moz-transform: scale(1.25);

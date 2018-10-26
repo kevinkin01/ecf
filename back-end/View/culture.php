@@ -73,7 +73,51 @@
     <!---------------conteneur culture------------------->
     <div id="conteneur">
         <div class=column_A>
-        </div>
+            <div class=zoom>
+                <div class="col-lg-1 padbot30 gallery_img lorem" id="grandephoto">
+                    <a href="View/images/gallery/murs_512.jpg" data-gal="prettyPhoto[gal]">
+                        <i></i>
+                        <img src="View/images/gallery/murs_512.jpg" alt="" style="width: 100%;
+    height: 100%;" /></a>
+                </div>
+            </div>
+
+            <script type="text/javascript">
+                function afficheGrandePhoto2(imageCliquee) {
+
+
+                    /* je récupère dans l'attribut alt de l'image cliquée son nom */
+                    console.log("afficheGrandePhoto : " + imageCliquee.alt);
+                    /* URL de la vignette cliquée ? */
+                    var URLvignette = imageCliquee.getAttribute("src");
+                    console.log("URL de la photo cliquée : " + URLvignette);
+                    /* Enlever dans l'URL de ma vignette le "128" et le remplacer par "512" pour avoir l'URL de la grande photo correspondante */
+
+                    /* Modifier l'attribut src de la grande photo */
+                    var grandePhoto = document.querySelector("#grandephoto img");
+                    grandePhoto.setAttribute("src", URLvignette);
+                    grandePhoto.setAttribute("alt", imageCliquee.alt);
+                }
+            </script>
+            <div id="global">
+                <section>
+
+
+                </section>
+                <section id="vignettes">
+                    <ul>
+                        <?php
+
+                        foreach ($slider2 as $item0) {
+
+                            ?>
+
+
+                            <li><img src="<?=$item0['image'];?>" alt="" width="128" height="96" onclick="afficheGrandePhoto2(this);" /></li>
+                        <?php } ?>
+                    </ul>
+                </section>
+            </div>
             <div class="imagePara">
                 <p>L’ASBL Entraide et Culture, créée en 1983 à Forest par des bénévoles, apporte une aide et un soutien à un public précarisé et fragilisé.</p>
             </div>

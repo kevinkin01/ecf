@@ -2,24 +2,209 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f972418-3b45-45f1-b2c5-ea5351aab647" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/back-end/Datas/entraide_culture.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/View/img/EC.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/entraide_culture_final/View/img/CO.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/entraide_culture_final/View/img/RE.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/Datas/entraide_culture final.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/Model/Article.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Model/Article.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/ckeditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/af.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/az.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/bn.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/bn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/bs.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/bs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/de-ch.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/de-ch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/el.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/en-au.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/en-au.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/en-ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/en-ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/en-gb.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/en-gb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/eo.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/eo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/es-mx.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/es-mx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/fo.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/fo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/fr-ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/fr-ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/gu.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/gu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/hi.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/hi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/is.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/is.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ka.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ka.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/km.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/km.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ku.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ku.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/mn.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/mn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ms.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/no.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/no.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/oc.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/oc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/pt-br.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/pt-br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/si.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/si.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sq.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sr-latn.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sr-latn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/tt.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/tt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ug.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/ug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/zh-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/zh.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/lang/zh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/plugins/about/dialogs/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/plugins/about/dialogs/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/plugins/easyimage/styles/easyimage.css" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/plugins/easyimage/styles/easyimage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/plugins/pastefromword/filter/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/plugins/pastefromword/filter/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/plugins/templates/templates/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/plugins/templates/templates/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/ckeditor/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/ckeditor/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Asset/js/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Asset/js/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Controller/PublicController.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Controller/PublicController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/Model/AccueilManager.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/Model/AccueilManager.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/accueil.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/accueil.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back-end/View/ancrage.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/ancrage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Model/Article.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Model/Article.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/asbl.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/asbl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/css/flexslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/css/flexslider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/culture.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/culture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/entraide.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/entraide.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/hautpage.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/hautpage.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/infos.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/infos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/js/jquery.isotope.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/js/jquery.isotope.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/js/jquery.prettyPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/js/jquery.prettyPhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/View/presentation.php" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/View/presentation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/ckeditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/af.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/az.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/bn.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/bn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/bs.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/bs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/de-ch.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/de-ch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/el.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/en-au.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/en-au.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/en-ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/en-ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/en-gb.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/en-gb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/eo.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/eo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/es-mx.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/es-mx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/fo.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/fo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/fr-ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/fr-ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/gu.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/gu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/hi.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/hi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/is.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/is.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ka.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ka.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/km.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/km.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ku.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ku.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/mn.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/mn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ms.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/no.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/no.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/oc.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/oc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/pt-br.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/pt-br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/si.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/si.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sq.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sr-latn.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sr-latn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/tt.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/tt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ug.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/ug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/zh-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/zh.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/lang/zh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/plugins/about/dialogs/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/plugins/about/dialogs/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/plugins/easyimage/styles/easyimage.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/plugins/easyimage/styles/easyimage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/plugins/pastefromword/filter/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/plugins/pastefromword/filter/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/plugins/templates/templates/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/plugins/templates/templates/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/ckeditor/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/Asset/js/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/Asset/js/jquery-ui.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/css/flexslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/css/flexslider.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/css/mbootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/css/mbootstrap.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/css/mstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/css/mstyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/img/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/img/facebook.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/infos.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/infos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/js/jquery.isotope.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/js/jquery.isotope.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/js/jquery.prettyPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/js/jquery.prettyPhoto.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/m.accueil.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/m.accueil.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/m.infos.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/m.infos.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entraide_culture_final/View/m.menu.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/View/m.menu.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/vendor/coffeecode/uploader/example/image.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/vendor/coffeecode/uploader/example/image.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/vendor/coffeecode/uploader/src/Image.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/vendor/coffeecode/uploader/src/Image.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Image.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Image.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/lib/mime_types.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/lib/mime_types.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/lib/swiftmailer_generate_mimes_config.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/lib/swiftmailer_generate_mimes_config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/Mime/SimpleMessageAcceptanceTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/tests/acceptance/Swift/Mime/SimpleMessageAcceptanceTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug34Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug34Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug35Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug35Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug38Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug38Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/AbstractMimeEntityTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_culture_final/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/AbstractMimeEntityTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_et_culture/css/flexslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_et_culture/css/flexslider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_et_culture/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_et_culture/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_et_culture/css/styleold.css" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_et_culture/css/styleold.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_et_culture/js/jquery.isotope.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_et_culture/js/jquery.isotope.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entraide_et_culture/js/jquery.prettyPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/entraide_et_culture/js/jquery.prettyPhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hautpage.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/hautpage.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.view.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +227,7 @@
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.32" value="1" />
@@ -50,14 +235,15 @@
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="138" />
+          <entry key="dummy" value="12" />
           <entry key="js" value="3" />
-          <entry key="php" value="3589" />
+          <entry key="php" value="3945" />
           <entry key="sql" value="16" />
         </counts>
       </usages-collector>
@@ -65,7 +251,8 @@
         <counts>
           <entry key="CSS" value="138" />
           <entry key="JavaScript" value="3" />
-          <entry key="PHP" value="3589" />
+          <entry key="PHP" value="3945" />
+          <entry key="PLAIN_TEXT" value="12" />
           <entry key="SQL" value="16" />
         </counts>
       </usages-collector>
@@ -73,20 +260,22 @@
         <counts>
           <entry key="CHANGES" value="1" />
           <entry key="LICENSE" value="1" />
-          <entry key="PNG" value="1" />
+          <entry key="PNG" value="3" />
           <entry key="README" value="1" />
           <entry key="css" value="12" />
+          <entry key="gif" value="1" />
           <entry key="gitignore" value="2" />
           <entry key="html" value="1" />
-          <entry key="jpg" value="14" />
+          <entry key="jpg" value="20" />
           <entry key="js" value="6" />
           <entry key="json" value="1" />
           <entry key="lock" value="1" />
           <entry key="md" value="1" />
-          <entry key="php" value="264" />
-          <entry key="png" value="6" />
+          <entry key="php" value="299" />
+          <entry key="png" value="13" />
           <entry key="rnc" value="1" />
           <entry key="sql" value="3" />
+          <entry key="svg" value="2" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -94,15 +283,21 @@
         <counts>
           <entry key="CSS" value="12" />
           <entry key="HTML" value="1" />
-          <entry key="Image" value="21" />
+          <entry key="Image" value="37" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="6" />
           <entry key="Markdown" value="1" />
-          <entry key="PHP" value="264" />
+          <entry key="PHP" value="299" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="RNG Compact" value="1" />
           <entry key="SQL" value="3" />
+          <entry key="SVG" value="2" />
           <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -142,31 +337,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back-end/View/culture.php">
+        <entry file="file://$PROJECT_DIR$/back-end/View/menu.view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+            <state relative-caret-position="405">
+              <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/back-end/View/presentation.php">
+        <entry file="file://$PROJECT_DIR$/back-end/View/updateArticleAdmin.view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="86" selection-start-line="86" selection-end-line="86" />
+            <state relative-caret-position="729">
+              <caret line="69" column="10" lean-forward="true" selection-start-line="64" selection-start-column="4" selection-end-line="69" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/back-end/View/entraide.php">
+        <entry file="file://$PROJECT_DIR$/back-end/View/createArticleAdmin.view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="101" column="25" lean-forward="true" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="-176">
+              <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -187,9 +379,9 @@
       <find>li</find>
       <find>list-style</find>
       <find>ul li</find>
-      <find>li</find>
       <find>paraentr</find>
       <find>paraen</find>
+      <find>im</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -198,8 +390,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/website/model/UtilManager.class.php" />
-        <option value="$PROJECT_DIR$/website/model/ArticleManager.class.php" />
         <option value="$PROJECT_DIR$/website/model/category.class.php" />
         <option value="$PROJECT_DIR$/website/model/categoryManager.class.php" />
         <option value="$PROJECT_DIR$/website/View/index.view.php" />
@@ -218,7 +408,6 @@
         <option value="$PROJECT_DIR$/website/Controller/AdminController.php" />
         <option value="$USER_HOME$/Desktop/crud-juin-2018/config.php" />
         <option value="$PROJECT_DIR$/back-end/View/connect.view.php" />
-        <option value="$PROJECT_DIR$/back-end/Model/ArticleManager.class.php" />
         <option value="$PROJECT_DIR$/back-end/Model/AuthorManager.class.php" />
         <option value="$PROJECT_DIR$/back-end/Datas/entraide_culture.sql" />
         <option value="$PROJECT_DIR$/back-end/View/upload.php" />
@@ -226,29 +415,32 @@
         <option value="$PROJECT_DIR$/abdoul.php" />
         <option value="$PROJECT_DIR$/back-end/View/configFormulaire.php" />
         <option value="$PROJECT_DIR$/back-end/View/css/style.css" />
-        <option value="$PROJECT_DIR$/back-end/View/createArticleAdmin.view.php" />
         <option value="$PROJECT_DIR$/back-end/View/editor-upload.php" />
         <option value="$PROJECT_DIR$/back-end/View/index.php" />
-        <option value="$PROJECT_DIR$/back-end/View/accueil.php" />
-        <option value="$PROJECT_DIR$/back-end/View/asbl.php" />
         <option value="$PROJECT_DIR$/back-end/View/donwload.php" />
-        <option value="$PROJECT_DIR$/back-end/View/infos.php" />
         <option value="$PROJECT_DIR$/back-end/config.php" />
         <option value="$PROJECT_DIR$/back-end/Model/Article.class.php" />
         <option value="$PROJECT_DIR$/entraide_culture_final/config.php" />
-        <option value="$PROJECT_DIR$/back-end/View/ancrage.php" />
         <option value="$PROJECT_DIR$/back-end/View/updateArticleAdmin.view.php" />
         <option value="$PROJECT_DIR$/back-end/View/indexAdmin.view.php" />
         <option value="$PROJECT_DIR$/back-end/View/menu.view.php" />
         <option value="$PROJECT_DIR$/back-end/Controller/AdminController.php" />
         <option value="$PROJECT_DIR$/back-end/View/hautpage.view.php" />
-        <option value="$PROJECT_DIR$/back-end/Model/AccueilManager.class.php" />
         <option value="$PROJECT_DIR$/back-end/View/updateSlider.view.php" />
-        <option value="$PROJECT_DIR$/back-end/Controller/PublicController.php" />
         <option value="$PROJECT_DIR$/index.view.php" />
-        <option value="$PROJECT_DIR$/back-end/View/culture.php" />
-        <option value="$PROJECT_DIR$/back-end/View/presentation.php" />
+        <option value="$PROJECT_DIR$/back-end/View/accueil.php" />
+        <option value="$PROJECT_DIR$/back-end/View/ancrage.php" />
         <option value="$PROJECT_DIR$/back-end/View/entraide.php" />
+        <option value="$PROJECT_DIR$/back-end/Model/image.class.php" />
+        <option value="$PROJECT_DIR$/back-end/Model/AccueilManager.class.php" />
+        <option value="$PROJECT_DIR$/back-end/View/presentation.php" />
+        <option value="$PROJECT_DIR$/back-end/Controller/PublicController.php" />
+        <option value="$PROJECT_DIR$/back-end/View/culture.php" />
+        <option value="$PROJECT_DIR$/back-end/Model/ArticleManager.class.php" />
+        <option value="$PROJECT_DIR$/back-end/View/createArticleAdmin.view.php" />
+        <option value="$PROJECT_DIR$/back-end/View/infos.php" />
+        <option value="$PROJECT_DIR$/back-end/View/asbl.php" />
+        <option value="$PROJECT_DIR$/back-end/View/img/EC.svg" />
       </list>
     </option>
   </component>
@@ -275,9 +467,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="700" />
-    <option name="y" value="56" />
-    <option name="width" value="1012" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -286,6 +477,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -308,12 +500,6 @@
               <item name="entraide_culture-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="entraide_culture-master" type="462c0819:PsiDirectoryNode" />
               <item name="back-end" type="462c0819:PsiDirectoryNode" />
-              <item name="img-upload" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="entraide_culture-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="entraide_culture-master" type="462c0819:PsiDirectoryNode" />
-              <item name="back-end" type="462c0819:PsiDirectoryNode" />
               <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -327,43 +513,34 @@
               <item name="entraide_culture-master" type="462c0819:PsiDirectoryNode" />
               <item name="back-end" type="462c0819:PsiDirectoryNode" />
               <item name="View" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="entraide_culture-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="entraide_culture-master" type="462c0819:PsiDirectoryNode" />
-              <item name="back-end" type="462c0819:PsiDirectoryNode" />
-              <item name="View" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="script.js" type="620a8d5e:NestingTreeNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ec Fork" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaScript/galerie" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WEB2018\entraide_culture-master\back-end\View\img" />
+      <recent name="F:\WEB2018\entraide_culture-master\back-end\Model" />
+      <recent name="F:\WEB2018\entraide_culture-master\back-end\View" />
+      <recent name="F:\WEB2018\entraide_culture-master\entraide_culture_final\Model" />
+      <recent name="F:\WEB2018\entraide_culture-master" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\WEB2018\entraide_culture-master\back-end\Datas" />
       <recent name="F:\WEB2018\entraide_culture-master\back-end\View" />
       <recent name="F:\WEB2018\entraide_culture-master\back-end" />
       <recent name="F:\WEB2018\entraide_culture-master\website\Asset\js" />
       <recent name="F:\WEB2018\entraide_culture-master\website\Model" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\WEB2018\entraide_culture-master\back-end\Model" />
-      <recent name="F:\WEB2018\entraide_culture-master\back-end\View" />
-      <recent name="F:\WEB2018\entraide_culture-master\entraide_culture_final\Model" />
-      <recent name="F:\WEB2018\entraide_culture-master\back-end\View\img" />
-      <recent name="F:\WEB2018\entraide_culture-master" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -421,11 +598,12 @@
       <workItem from="1539853218654" duration="31000" />
       <workItem from="1540375610203" duration="11984000" />
       <workItem from="1540469522301" duration="7562000" />
+      <workItem from="1540537313255" duration="7824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162231000" />
+    <option name="totallyTimeSpent" value="170055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -433,16 +611,16 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.15724947" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.22761194" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Find" order="3" weight="0.32929516" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3291714" />
       <window_info anchor="bottom" id="Run" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3291714" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -462,223 +640,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/back-end/View/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50247">
-          <caret line="1861" column="16" selection-start-line="1861" selection-start-column="16" selection-end-line="1861" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/donwload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/css/flexslider.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/css/prettyPhoto.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/infos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="147" column="47" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entraide_culture_final/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entraide_culture_final/Model/Article.class.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entraide_culture_final/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entraide_culture_final/View/css/mstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3888" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entraide_culture_final/View/m.accueil.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/ancrage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="124" column="22" selection-start-line="124" selection-start-column="22" selection-end-line="124" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/asbl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2763">
-          <caret line="4" column="141" selection-start-line="4" selection-start-column="141" selection-end-line="4" selection-end-column="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hautpage.view.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/updateSlider.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/Model/Article.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="176" column="20" selection-start-line="176" selection-start-column="20" selection-end-line="176" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/indexAdmin.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/Asset/js/myJs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/menu.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AdminController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="112" column="1" lean-forward="true" selection-start-line="99" selection-start-column="2" selection-end-line="112" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/updateArticleAdmin.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1215">
-          <caret line="67" column="162" selection-start-line="67" selection-start-column="162" selection-end-line="67" selection-end-column="162" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/editor-upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/Controller/AdminController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/hautpage.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="51" column="41" lean-forward="true" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/Model/AccueilManager.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/updateSlider.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/Controller/PublicController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="e#6#48#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/ae_128.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/ae_512.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/bike_128.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/bike_512.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/bourseAlimentaire_128.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/bourseAlimentaire_512.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/child_128.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/child_512.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/ecrire_128.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/ecrire_512.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -701,35 +662,229 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/back-end/View/js/jquery.flexslider-min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-9">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/accueil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/ancrage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/connect.view.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/detail.view.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/donwload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/hautpage.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="51" column="41" lean-forward="true" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/index.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1386" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Controller/AdminController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/img-upload/1540538556.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/img-upload/1540538532.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/img-upload/1540476023.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/img-upload/1540475319.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/img-upload/1540475205.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Model/Category.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="5" selection-start-line="5" selection-start-column="2" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Model/image.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="65" column="20" lean-forward="true" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/indexAdmin.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Model/AccueilManager.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/gallery/murs_512.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/presentation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="97" column="17" lean-forward="true" selection-start-line="83" selection-start-column="13" selection-end-line="97" selection-end-column="17" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/entraide.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="85" column="15" lean-forward="true" selection-start-line="85" selection-start-column="15" selection-end-line="98" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Controller/PublicController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#6#48#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/back-end/View/culture.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/presentation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/back-end/View/entraide.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="101" column="25" lean-forward="true" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+        <state relative-caret-position="1220">
+          <caret line="112" column="30" lean-forward="true" selection-start-line="112" selection-start-column="30" selection-end-line="112" selection-end-column="30" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/slider/._slide1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/prettyPhoto/light_rounded/._btnNext.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/prettyPhoto/light_rounded/._btnPrevious.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/prettyPhoto/light_rounded/._default_thumbnail.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/prettyPhoto/light_rounded/._sprite.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/title_line2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/title_line3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/slider/slide3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/slider/slide2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/images/slider/slide1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/menu.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/updateArticleAdmin.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="69" column="10" lean-forward="true" selection-start-line="64" selection-start-column="4" selection-end-line="69" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/updateSlider.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Model/Article.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="176" column="20" selection-start-line="176" selection-start-column="20" selection-end-line="176" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/img/EC.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/asbl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="87" column="41" lean-forward="true" selection-start-line="87" selection-start-column="41" selection-end-line="87" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/infos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="104" column="101" selection-start-line="104" selection-start-column="101" selection-end-line="104" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/Model/ArticleManager.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back-end/View/createArticleAdmin.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
         </state>
       </provider>
     </entry>

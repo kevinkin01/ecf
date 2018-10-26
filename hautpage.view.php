@@ -45,10 +45,10 @@
                                         <?= $item['titre'];?>
                                     </th>
                                     <td>
-                                        <?= $item['image']; ?>
+                                        <?= $item['image.class']; ?>
                                     </td>
                                     <td>
-                                        <a target="_blank" href=".<?= $item['image']; ?>">[OUVRIR]</a>
+                                        <a target="_blank" href=".<?= $item['image.class']; ?>">[OUVRIR]</a>
                                     </td>
                                     <td>
                                         <a href="?updateSlider=<?= $item['id']; ?>">

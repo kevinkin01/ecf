@@ -14,8 +14,7 @@
         <div style="padding:20px;" class="formulaire">
             <div class="box">
                 <div class="container-1">
-                    <span class="icon"><i class="fa fa-search"></i></span>
-                    <input type="search" id="search" placeholder="Rechercher..." />
+
                 </div>
             </div>
         </div>
@@ -103,7 +102,7 @@
 
                 <div id="myDIVentraide"></div>
                 <div class="mainTexte">
-                    <p>ASBL FONDÉE EN 1983 APPORTE UNE AIDE ET </br> UN SOUTIEN À UN PUBLIC PRÉCARISÉ ET FRAGILISÉ.</p>
+                    <p><strong>Métros :</strong> 2&6 | arrêt Gare du midi <br><strong>Tram :</strong> 82 | arrêt "Imprimerie" <br> <strong>Bus :</strong> 49 - 50 arrêt "imprimerie"</p>
                 </div>
                 <div class="formeinfo1">
                     <div class="col-lg-4 col-md-4 padbot30 our_office_wrap">
