@@ -9,6 +9,8 @@ $UtilM = new AuthorManager($pdo);
 $AccueilM = new AccueilManager($pdo);
 $slider = $AccueilM->presentation();
 $slider2 = $AccueilM->entraide();
+$slider3 = $AccueilM->culture();
+$slider4 = $AccueilM->ancrage();
 if(isset($_GET['login'])) {
 
     if(empty($_POST)){

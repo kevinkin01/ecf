@@ -69,56 +69,13 @@
     <div id="conteneur">
         <div class=column_A>
             <div class=zoom>
-                <div class="col-lg-1 padbot30 gallery_img lorem" id="grandephoto">
-                    <a href="View/images/gallery/murs_512.jpg" data-gal="prettyPhoto[gal]">
-                        <i></i>
-                        <img src="View/images/gallery/murs_512.jpg" alt="" style="width: 100%;
-    height: 100%;" /></a>
-                </div>
-            </div>
-
-            <script type="text/javascript">
-                function afficheGrandePhoto2(imageCliquee) {
-
-
-                    /* je récupère dans l'attribut alt de l'image cliquée son nom */
-                    console.log("afficheGrandePhoto2 : " + imageCliquee.alt);
-                    /* URL de la vignette cliquée ? */
-                    var URLvignette = imageCliquee.getAttribute("src");
-                    console.log("URL de la photo cliquée : " + URLvignette);
-                    /* Enlever dans l'URL de ma vignette le "128" et le remplacer par "512" pour avoir l'URL de la grande photo correspondante */
-
-                    /* Modifier l'attribut src de la grande photo */
-                    var grandePhoto = document.querySelector("#grandephoto2 img");
-                    grandePhoto.setAttribute("src", URLvignette);
-                    grandePhoto.setAttribute("alt", imageCliquee.alt);
-                }
-            </script>
-            <div id="global">
-                <section>
-
-
-                </section>
-                <section id="vignettes">
-                    <ul>
-                        <?php
-
-                        foreach ($slider2 as $item1) {
-
-                            ?>
-
-
-                            <li><img src="<?=$item1['image'];?>" alt="" width="128" height="96" onclick="afficheGrandePhoto2(this);" /></li>
-                        <?php } ?>
-
-
-                    </ul>
-                </section>
+                <div class="col-lg-1 padbot30 gallery_img lorem"><a href="View/img/entraide.png" data-gal="prettyPhoto[gal]"><i></i><img src="View/img/entraide.png" alt="" style="width: 100%;" /></a></div>
             </div>
             <div class="imagePara">
                 <p>L’ASBL Entraide et Culture, créée en 1983 à Forest par des bénévoles, apporte une aide et un soutien à un public précarisé et fragilisé.</p>
             </div>
         </div>
+
         <div class=column_B>
             <div id="myDIVentraide"></div>
             <div class="tab">
@@ -138,7 +95,6 @@
                     ?></h2>
                 <div class="paraEntraide">
                     <br>
-                    <br>
 
                     <?php echo $take->getThetext();
                     ?>
@@ -146,6 +102,7 @@
                 </div>
             </div>
             <div id="SocialS" class="tabcontent">
+                <div class="titleParaPoleEntraide">Service</div>
                 <h2><?php
                     $take = $listView[12];
                     echo $take->getThetitle();
@@ -153,7 +110,7 @@
                 <div class="paraEntraide">
 
                     <br>
-                    <br>
+
 
                     <?php echo $take->getThetext();
                     ?>
@@ -161,6 +118,7 @@
                 </div>
             </div>
             <div id="AideAd" class="tabcontent">
+                <div class="titleParaPoleEntraide">Aide</div>
                 <h2><?php
                     $take = $listView[3];
                     echo $take->getThetitle();
@@ -168,7 +126,7 @@
                 <div class="paraEntraide">
 
                     <br>
-                    <br>
+
 
                     <?php echo $take->getThetext();
                     ?>
@@ -176,6 +134,7 @@
                 </div>
             </div>
             <div id="AideA" class="tabcontent">
+                <div class="titleParaPoleEntraide">Aide</div>
                 <h2><?php
                     $take = $listView[14];
                     echo $take->getThetitle();
@@ -183,12 +142,13 @@
                 <div class="paraEntraide">
 
                     <br>
-                    <br>
+
                     <?php echo $take->getThetext();
                     ?>
                 </div>
             </div>
             <div id="VestiaireS" class="tabcontent">
+                <div class="titleParaPoleEntraide">Vestiaire</div>
                 <h2><?php
                     $take = $listView[15];
                     echo $take->getThetitle();
@@ -196,7 +156,7 @@
                 <div class="paraEntraide">
 
                     <br>
-                    <br>
+
                     <?php echo $take->getThetext();
                     ?>
                 </div>

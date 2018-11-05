@@ -78,7 +78,7 @@
                     <div class="col-lg-1 padbot30 gallery_img lorem" id="grandephotoancrage">
                         <a href="View/images/gallery/hands_512.jpg" data-gal="prettyPhoto[gal]">
                             <i></i>
-                            <img src="View/images/gallery/hands_512.jpg" alt="" style="width: 100%;"/></a>
+                            <img src="View/images/gallery/hands_512.jpg" alt="" style="width: 100%; height: 100%;padding-bottom: inherit;padding-left: inherit;"/></a>
                     </div>
                 </div>
                 <script type="text/javascript">
@@ -98,16 +98,15 @@
                     }
                 </script>
                 <div id="global">
-                    <section>
-
-
-                    </section>
                     <section id="vignettes">
-                        <ul>
-                            <li><img src="View/images/gallery/fire_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);"/></li>
-                            <li><img src="View/images/gallery/ae_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);" /></li>
-                            <li><img src="View/images/gallery/cercle_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);" /></li>
-                        </ul>
+
+                            <ul>
+                                <li><img src="View/images/gallery/fire_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);"/></li>
+                                <li><img src="View/images/gallery/ae_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);" /></li>
+                                <li><img src="View/images/gallery/cercle_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);" /></li>
+                            </ul>
+
+
                     </section>
                 </div>
                 <div class="imagePara">
@@ -125,8 +124,6 @@
                 <div id="myDIVpresentation"></div>
 
                 <div class="paraPresentation">
-
-                    <br>
                     <?php
                     echo $take->getThetext();
                     ?>

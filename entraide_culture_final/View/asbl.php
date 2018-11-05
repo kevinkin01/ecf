@@ -12,11 +12,7 @@
                 </span>
         </div>
         <div style="padding:20px;" class="formulaire">
-            <div class="box">
-                <div class="container-1">
-                    <span class="icon"><i class="fa fa-search"></i></span>
-                    <input type="search" id="search" placeholder="Rechercher..." />
-                </div>
+
             </div>
         </div>
         <div class="head_T">

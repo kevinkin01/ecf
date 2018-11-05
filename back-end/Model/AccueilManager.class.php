@@ -52,11 +52,51 @@ class AccueilManager
     }
     public function entraide(){
 
+    # aaa038 - recup all articles without author at the moment
+    // $get = $this->db->query("SELECT a.* FROM article a ORDER BY a.thedate DESC;");
+
+    # aaa060 - replace a38 recup all articles with JOIN author
+    $get = $this->db->query("SELECT * FROM 	accueil_image where id BETWEEN 6 and 10");
+
+    # aaa039 => one or more result
+    if($get->rowCount()){
+
+        # aaa041 - return array assoc's in array index
+
+        return $get->fetchAll(PDO::FETCH_ASSOC);
+
+    }else{
+        # aaa040 => no result => return false
+        return false;
+    }
+}
+    public function culture(){
+
         # aaa038 - recup all articles without author at the moment
         // $get = $this->db->query("SELECT a.* FROM article a ORDER BY a.thedate DESC;");
 
         # aaa060 - replace a38 recup all articles with JOIN author
-        $get = $this->db->query("SELECT * FROM 	accueil_image where id BETWEEN 6 and 10");
+        $get = $this->db->query("SELECT * FROM 	accueil_image where id BETWEEN 11 and 15");
+
+        # aaa039 => one or more result
+        if($get->rowCount()){
+
+            # aaa041 - return array assoc's in array index
+
+            return $get->fetchAll(PDO::FETCH_ASSOC);
+
+        }else{
+            # aaa040 => no result => return false
+            return false;
+        }
+    }
+    public function ancrage(){
+
+        # aaa038 - recup all articles without author at the moment
+        // $get = $this->db->query("SELECT a.* FROM article a ORDER BY a.thedate DESC;");
+
+        # aaa060 - replace a38 recup all articles with JOIN author
+        $get = $this->db->query("SELECT * FROM 	accueil_image where id BETWEEN 16 and 20");
 
         # aaa039 => one or more result
         if($get->rowCount()){

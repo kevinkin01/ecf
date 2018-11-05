@@ -84,18 +84,14 @@ a {
     cursor: pointer;
 }
 
-img {
-}
+img {padding-left: 4%;/* padding-top: 1%; */padding-bottom: 2%;}
 
 a:hover, a:focus {
     color: #fcbc20 !important;
-    /* font-size: 1.35em !important; */
+
 }
 
-.anext a:hover, a:focus {
-    color: #007468 !important;
-    font-size: 1.35em !important;
-}
+
 
 h1 {
     font-size: 8vmin;
@@ -485,7 +481,7 @@ ul, ol {
 }
 
 li {
-   padding: 0;
+    padding: 0;
     margin: 0;
 
 }
@@ -520,7 +516,7 @@ h1 {
 h2 {
     margin: 0!important;
     text-align: left!important;
-    padding-left: 40px;
+    padding-left: 38px;
 }
 
 h3 {
@@ -1448,7 +1444,7 @@ a.imageArticle1:hover img {
     text-align: left;
     font-family: 'Oswald', sans-serif !important;
     padding-top: 58px;
-    padding-left: 40px;
+    padding-left: 38px;
 }
 
 .titleInfo {
@@ -1557,11 +1553,22 @@ a.imageArticle1:hover img {
     height: 576px;
 
 }
+.paraEntraide::-webkit-scrollbar {
+    display: none;
+
+}
+
+
 
 .paraAncrageLocalB {
     text-transform: none !important;
     text-align: justify!important;
 }
+.paraAncrageLocalB::-webkit-scrollbar {
+    display: none;
+
+}
+
 
 .paraPresentation {
     text-transform: none !important;
@@ -1572,6 +1579,12 @@ a.imageArticle1:hover img {
     padding-right: 40px;
     padding-top: 21px;
 }
+.paraPresentation::-webkit-scrollbar {
+    display: none;
+
+}
+
+
 
 .paraCulture {
     text-transform: none !important;
@@ -1581,16 +1594,27 @@ a.imageArticle1:hover img {
     overflow: scroll;
     height: 576px;
 }
+.paraCulture::-webkit-scrollbar {
+    display: none;
+
+}
+
 
 .paraAncrageLocalA {
     text-transform: none !important;
     text-align: justify!important;
 }
+.paraAncrageLocalA::-webkit-scrollbar {
+    display: none;
+
+}
+
 
 .paraimages {
     height: 90px;
     width: 84%;
 }
+
 
 #list li {
     color: #555;
@@ -1859,8 +1883,9 @@ a.imageArticle1:hover img {
 
 }
 .main-nav ul  {
-list-style: none;
+    list-style: none;
     display: flex;
     flex-wrap: wrap;
+
 
 }
