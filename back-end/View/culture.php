@@ -12,12 +12,7 @@
                 </span>
         </div>
         <div style="padding:20px;" class="formulaire">
-            <div class="box">
-                <div class="container-1">
-                    <span class="icon"><i class="fa fa-search"></i></span>
-                    <input type="search" id="search" placeholder="Rechercher..." />
-                </div>
-            </div>
+
         </div>
         <div class="head_T">
             <h1>culture</h1>
@@ -135,7 +130,7 @@
             <div id="Culture" class="tabcontent1">
                 <div class="titleParaPoleCulture">Pôle</div>
                 <h2><?php
-                    $take = $listView[5];
+                    $take = $listView[6];
                     echo $take->getThetitle();
                     ?></h2>
             <div class="paraCulture">
@@ -149,7 +144,7 @@
             </div>
             <div id="Alphabetisation" class="tabcontent1">
                 <h2><?php
-                    $take = $listView[9];
+                    $take = $listView[7];
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraCulture">
@@ -163,7 +158,7 @@
             </div>
             <div id="Ecole" class="tabcontent1">
                 <h2><?php
-                    $take = $listView[10];
+                    $take = $listView[8];
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraCulture">
@@ -176,7 +171,7 @@
             </div>
             <div id="Ntic" class="tabcontent1">
                 <h2><?php
-                    $take = $listView[13];
+                    $take = $listView[9];
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraCulture">

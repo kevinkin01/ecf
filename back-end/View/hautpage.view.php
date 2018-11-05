@@ -45,7 +45,7 @@
                                         <?= $item['titre'];?>
                                     </th>
                                     <td>
-                                        <?= $item['image.class']; ?>
+                                        <?= $item['image']; ?>
                                     </td>
                                     <td>
                                         <a target="_blank" href="<?= $item['image.class']; ?>">[OUVRIR]</a>

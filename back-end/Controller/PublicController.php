@@ -7,8 +7,8 @@ $ArticleM = new ArticleManager($pdo);
 $UtilM = new AuthorManager($pdo);
 
 $AccueilM = new AccueilManager($pdo);
-$slider = $AccueilM->listSlider();
-$slider2 = $AccueilM->listSlider();
+$slider = $AccueilM->presentation();
+$slider2 = $AccueilM->entraide();
 if(isset($_GET['login'])) {
 
     if(empty($_POST)){

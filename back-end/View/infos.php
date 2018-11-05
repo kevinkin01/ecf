@@ -148,7 +148,7 @@
             <div class="padbot30">
                 <div class="row clients_wrap">
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="http://www.actiris.be/tabid/173/language/fr-BE/A-propos-d-Actiris.aspx" target="_blank"><img src="img/AC.png" alt="" /></a>
+                        <a class="client_logo" href="http://www.actiris.be/tabid/173/language/fr-BE/A-propos-d-Actiris.aspx" target="_blank"><img src="View/img/AC.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
                         <a class="client_logo" href="https://www.spfb.brussels/" target="_blank"><img src="View/img/CO.png" alt="" /></a>
