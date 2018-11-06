@@ -149,7 +149,6 @@
                 <div class="titleInfo">Nos soutiens</div>
                 <div class="padbot30">
                     <div class="row clients_wrap">
-
                         <a class="client_logo" href="http://www.actiris.be/tabid/173/language/fr-BE/A-propos-d-Actiris.aspx" target="_blank" style="    grid-column: 1;
 grid-row: 1;"><img src="View/img/AC.png" alt=""  style="width: 40%;"/></a>
 
@@ -173,12 +172,12 @@ grid-row: 1;"><img src="View/img/NE.png" alt=""  style="width: 40%;" /></a>
 
 
                         <a class="client_logo" href="https://www.mi-is.be/fr" target="_blank" style="grid-column: 5; grid-row: 2;"><img src="View/img/INT.png" alt=""  style="width: 40%;    padding-bottom: 10%;" /></a>
-                    </div>
+ </div>
                 </div>
             </div>
-            </div>
-            <!---------------END conteneur infos pratiques------------------->
 
+            <!---------------END conteneur infos pratiques------------------->
+        </div>
     </div>
 
 

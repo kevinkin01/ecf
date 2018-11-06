@@ -88,9 +88,12 @@
 
 
             <div id="Culture" class="tabcontent1">
-                <div class="titleParaPoleCulture">Pôle</div>
-                <h2><?php
+                <div class="titleParaPoleCulture"><?php
                     $take = $listView[6];
+                    echo $take->getSoustitre();
+                    ?></div>
+                <h2><?php
+
                     echo $take->getThetitle();
                     ?></h2>
             <div class="paraCulture">
@@ -102,9 +105,12 @@
                 </div>
             </div>
             <div id="Alphabetisation" class="tabcontent1">
-                <div class="titleParaPoleCulture">Alphabetisation</div>
-                <h2><?php
+                <div class="titleParaPoleCulture"><?php
                     $take = $listView[7];
+                    echo $take->getSoustitre();
+                    ?></div>
+                <h2><?php
+
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraCulture">
@@ -115,10 +121,14 @@
 
                 </div>
             </div>
-            <div class="titleParaPoleCulture">Ecole</div>
+
             <div id="Ecole" class="tabcontent1">
-                <h2><?php
+                <div class="titleParaPoleCulture"><?php
                     $take = $listView[8];
+                    echo $take->getSoustitre();
+                    ?></div>
+                <h2><?php
+
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraCulture">
@@ -131,8 +141,12 @@
             <div id="Ntic" class="tabcontent1">
                 <div class="titleParaPoleCulture"><?php
                     $take = $listView[9];
-                    echo $take->getThetitle();
+                    echo $take->getSoustitre();
                     ?></div>
+                <?php
+
+                    echo $take->getThetitle();
+                    ?>
                 <div class="paraCulture">
 
                     <br>
