@@ -464,23 +464,29 @@ section {
 ul, ol {
     padding: 10px;
     margin: 0;
+    list-style: inherit;
+    margin-right: inherit!important;
 }
 
 li {
     padding: 0;
     margin: 6px;
-    list-style: none;
+    list-style: inherit;
+    margin-right: inherit!important;
+
 }
 
 ul {
+    list-style: inherit;
+    margin-right: inherit!important;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    /*grid-template-columns: 1fr 1fr;*/
     margin-left: auto;
-    margin-right: auto;
+
 }
 
 p {
-    margin: 0 0 20px;
+    margin: 0 0 18px;
     text-transform: none !important;
     /* text-align: justify!important; */
 }
@@ -665,6 +671,9 @@ header .social a {
     font-weight: lighter;
     opacity: 0.70;
     border-bottom: 1px solid #fcbc20;
+    list-style: none;
+
+    flex-wrap: wrap;
 }
 
 .main_menu {

@@ -2,10 +2,7 @@
     <div class="headframe">
         <div style="padding:20px;" class="formulaire">
             <div class="box">
-                <div class="container-1">
-                    <span class="icon"><i class="fa fa-search"></i></span>
-                    <input type="search" id="search" placeholder="Rechercher..." />
-                </div>
+
             </div>
         </div>
         <div class="head_T">
@@ -38,14 +35,18 @@
             <div id="myDIVentraide"></div>
             <div class="tab">
                 <button class="tablinks" onclick="document.location.href='?m=entraide#Entraide';">Entraide</button>
+                <button class="tablinks" onclick="document.location.href='?m=entraide#ServiceS';">Service Social</button>
                 <button class="tablinks" onclick="document.location.href='?m=entraide#AideAd';">Aide à domicile</button>
                 <button class="tablinks" onclick="document.location.href='?m=entraide#AideA';">Aide alimentaire</button>
                 <button class="tablinks" onclick="document.location.href='?m=entraide#VestiaireS';">Vestiaire social</button>
             </div>
-            <div class="titleParaPoleEntraide">Pôle</div>
+            <div class="titleParaPoleEntraide"><?php
+                $take = $listView[2];
+                echo $take->getSoustitre();
+                ?></div>
             <div id="Entraide" class="tabcontent">
                 <h2><?php
-                $take = $listView[2];
+
                 echo $take->getThetitle();
                     ?></h2>
                 <div class="paraEntraide">
@@ -56,9 +57,30 @@
                     ?>
                 </div>
             </div>
+            <div class="titleParaPoleEntraide"><?php
+                $take = $listView[12];
+                echo $take->getSoustitre();
+                ?></div>
+            <div id="SocialS" class="tabcontent">
+
+                <h2><?php
+                    echo $take->getThetitle();
+                    ?></h2>
+                <div class="paraEntraide">
+
+                    <br>
+
+
+                    <?php echo $take->getThetext();
+                    ?>
+
+                </div>
+            <div class="titleParaPoleEntraide"><?php
+                $take = $listView[13];
+                echo $take->getSoustitre();
+                ?></div>
             <div id="AideAd" class="tabcontent">
                 <h2><?php
-                    $take = $listView[13];
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraEntraide">
@@ -70,9 +92,12 @@
 
                 </div>
             </div>
+            <div class="titleParaPoleEntraide"><?php
+                $take = $listView[14];
+                echo $take->getSoustitre();
+                ?></div>
             <div id="AideA" class="tabcontent">
                 <h2><?php
-                    $take = $listView[14];
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraEntraide">
@@ -83,9 +108,13 @@
                     ?>
                 </div>
             </div>
+            <div class="titleParaPoleEntraide"><?php
+                $take = $listView[15];
+                echo $take->getSoustitre();
+                ?></div>
             <div id="VestiaireS" class="tabcontent">
                 <h2><?php
-                    $take = $listView[15];
+
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraEntraide">

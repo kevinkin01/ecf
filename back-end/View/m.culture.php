@@ -2,10 +2,7 @@
     <div class="headframe">
         <div style="padding:20px;" class="formulaire">
             <div class="box">
-                <div class="container-1">
-                    <span class="icon"><i class="fa fa-search"></i></span>
-                    <input type="search" id="search" placeholder="Rechercher..." />
-                </div>
+
             </div>
         </div>
         <div class="head_T">
@@ -44,11 +41,15 @@
                 <button class="tablink" onclick="document.location.href='?m=culture#Ecole';">Ecole des devoirs</button>
                 <button class="tablink" onclick="document.location.href='?m=culture#Ntic';">N.T.I.C</button>
             </div>
-            <div class="titleParaPoleCulture">Pôle</div>
 
+            <div class="titleParaPoleCulture"><?php
+                $take = $listView[6];
+                echo $take->getSoustitre();
+                ?></div>
             <div id="Culture" class="tabcontent1">
+
                 <h2><?php
-                    $take = $listView[6];
+
                     echo $take->getThetitle();
                     ?></h2>
             <div class="paraCulture">
@@ -58,9 +59,14 @@
 
                 </div>
             </div>
+            <div class="titleParaPoleCulture"><?php
+                $take = $listView[10];
+                echo $take->getSoustitre();
+                ?></div>
             <div id="Alphabetisation" class="tabcontent1">
+
                 <h2><?php
-                    $take = $listView[10];
+
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraCulture">
@@ -72,9 +78,14 @@
 
                 </div>
             </div>
+            <div class="titleParaPoleCulture"><?php
+                $take = $listView[11];
+                echo $take->getSoustitre();
+                ?></div>
             <div id="Ecole" class="tabcontent1">
+
                 <h2><?php
-                    $take = $listView[11];
+
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraCulture">
@@ -85,9 +96,14 @@
                     ?>
                 </div>
             </div>
+            <div class="titleParaPoleCulture"><?php
+                $take = $listView[9];
+                echo $take->getSoustitre();
+                ?></div>
             <div id="Ntic" class="tabcontent1">
+
                 <h2><?php
-                    $take = $listView[12];
+
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraCulture">

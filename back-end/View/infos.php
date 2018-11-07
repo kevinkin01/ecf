@@ -119,6 +119,33 @@
                     </div>
                 </div>
             </div>
+            <!--<div class="formeinfo1">
+                <div class="col-lg-4 col-md-4 padbot30 our_office_wrap">
+                    <div id="contact-form">
+                        <div id="sendmessage">Votre message a été bien envoyé. Merci!</div>
+                        <form class="contactForm" action="contact/contact.php" method="post" >
+                            <div class="form-group">
+                                <input id="name" type="text" name="name" placeholder="Nom" data-rule="maxlen:4" data-msg="SVP, entrer minimun 4 charactères" />
+                                <div class="validation"></div>
+                            </div>
+                            <div class="form-group">
+                                <input id="email" type="email" name="email" placeholder="E-mail" data-rule="email" data-msg="Votre e-mail" />
+                                <div class="validation"></div>
+                            </div>
+                            <div class="form-group">
+                                <textarea name="message" placeholder="Message" data-rule="required" data-msg="SVP, écrire votre message"></textarea>
+                                <div class="validation"></div>
+                            </div>
+                            <button type="submit">Envoyer message</button>
+                            <br><br>
+                            <p>En renseignant votre adresse e-mail, vous acceptez nos derniers articles de blog par courier électronique et vous prenez connaissance de notre <a>Politique de confidentialité</a>.
+                                <br><br>
+                                Vous pouvez vous désinscrire à tout moment à l'aide des liens de désincription ou en nous contactant à l'adresse xxx@entraideetculture.be
+                            </p>
+                        </form>
+                    </div>
+                </div>
+            </div>-->
             <div class="formeinfo2">
                 <section id="contacts">
                     <!-- Container contacts -->

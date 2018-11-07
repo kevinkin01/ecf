@@ -2,7 +2,7 @@
     <div class="headframe">
         <div class="socialgAccueil">
             <div class="socialf"><a href="https://www.facebook.com/entraideetculture/" class="social">
-                    <img src="View/img/facebookrond.png" alt="facebook"/></a>
+                    <img src="View/img/facebookrond.png" alt="facebook" style="width: 117%"/></a>
             </div>
 
         </div>

@@ -126,7 +126,7 @@
                 <div class="paraPresentation">
                     <?php
                     echo $take->getThetext();
-                    ?>
+                    ?><a href="View/donwload.php">Télécharger</a>
 
            </div>
         </div>
