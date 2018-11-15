@@ -5,7 +5,7 @@
     <link href="https://fonts.googleapis.com/css?family=Oswald:700" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ENTRAIDE & CULTURE</title>
-    <link rel="stylesheet" href="View/css/mstyle.css">
+    <link rel="stylesheet" href="View/css/mstyle.css ">
     <script type='text/javascript' href='View/js/script.js'></script>
     <script>window.console = window.console || function(t) {};</script>
     <script> if (document.location.search.match(/type=embed/gi)) {window.parent.postMessage("resize", "*");}</script>

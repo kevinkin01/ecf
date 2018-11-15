@@ -2,7 +2,7 @@
     <div class="headframe">
         <div class="head-l">
             <div class="socialg">
-                <div class="socialf"><a href="https://www.facebook.com/entraideetculture/" class="social"><img src="View/img/facebook.png" alt="facebook"/></a></div>
+                <div class="socialf"><a href="https://www.facebook.com/entraideetculture/" class="social"><img src="View/img/facebookrond.png" alt="facebook" style="width: 117%"/></a></div>
 
             </div>
             <span class="panel__zoom1 js-zoom">
@@ -12,6 +12,7 @@
                 </span>
         </div>
         <div style="padding:20px;" class="formulaire">
+            <div class="box">
 
             </div>
         </div>
@@ -114,9 +115,9 @@
             <div class="titlePresentation">asbl</div>
             <h2>mapping</h2>
             <div class="asblmapping">
-                <object data="View/img/mindmapEC.svg" width="90%"
-                        height="90%" type="image/svg+xml">
-                    <embed src="View/img/mindmapEC.svg" width="500"
+                <object data="View/img/EC.svg" width="86%"
+                        height="86%" type="image/svg+xml">
+                    <embed src="View/img/EC.svg" width="500"
                            height="500" type="image/svg+xml" />
                 </object>
             </div>

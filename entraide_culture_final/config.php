@@ -10,9 +10,7 @@ define("DB_PORT",3306);
 define("DB_LOGIN","root");
 define("DB_PWD","");
 define("DB_CHARSET","utf8");
-
 # aaa044 constante for dev/prod
 define("DB_MODE","dev"); // set to "prod" for hidding sql errors
-
 # aaa045 constante for permanent connection
 define("DB_PERSIST",false); // set to true for permanent connexion

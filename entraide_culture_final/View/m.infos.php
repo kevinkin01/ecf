@@ -2,10 +2,7 @@
     <div class="headframe">
         <div style="padding:20px;" class="formulaire">
             <div class="box">
-                <div class="container-1">
-                    <span class="icon"><i class="fa fa-search"></i></span>
-                    <input type="search" id="search" placeholder="Rechercher..." />
-                </div>
+
             </div>
         </div>
         <div class="head_T">
@@ -30,12 +27,15 @@
                 <div class="rowmap">
                     <div class="col-lg-4 col-md-4 padbot30">
                         <div id="map">
-                            <iframe height="300" style="border:none; scrolling:no; marginheight:0; marginwidth:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26448.534201747054!2d-118.24590761238238!3d34.042158170531856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2sLos+Angeles%2C+California%2C+Stati+Uniti!5e0!3m2!1sit!2sit!4v1422286433932">
+                            <iframe height="300" style="border:none; scrolling:no; marginheight:0; marginwidth:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.0974267488364!2d4.327848915711867!3d50.829359279529484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c41537c855e9%3A0x4c468f2d76765f8e!2sEntraide+Culture+asbl!5e0!3m2!1sfr!2sbe!4v1541756408756" ></iframe>
                             </iframe>
                         </div>
+
                     </div>
                 </div>
-
+                <div class="imagePara">
+                    <p><strong>Métros :</strong> 2&6 | arrêt Gare du midi <br><strong>Tram :</strong> 82 | arrêt "Imprimerie" <br> <strong>Bus :</strong> 49 - 50 arrêt "imprimerie" <br><br> <strong> Heures d’ouverture :</strong><br> du lundi au jeudi de 8h30 à 16h30 et 15h30 le vendredi</p>
+                </div>
         <div class=column_A>
             <div class="padbot30">
                 <div class="clients_description">
@@ -61,24 +61,37 @@
                     <div class="col-lg-4 col-md-4 padbot30 our_office_wrap">
                         <div id="contact-form">
                             <div id="sendmessage">Votre message a été bien envoyé. Merci!</div>
-                            <form class="contactForm" action="contact/contact.php" method="post" >
-                                <div class="form-group">
-                                    <input id="name" type="text" name="name" placeholder="Nom" data-rule="maxlen:4" data-msg="SVP, entrer minimun 4 charactères" />
-                                    <div class="validation"></div>
-                                </div>
-                                <div class="form-group">
-                                    <input id="email" type="email" name="email" placeholder="E-mail" data-rule="email" data-msg="Votre e-mail" />
-                                    <div class="validation"></div>
-                                </div>
-                                <div class="form-group">
-                                    <textarea name="message" placeholder="Message" data-rule="required" data-msg="SVP, écrire votre message"></textarea>
-                                    <div class="validation"></div>
-                                </div>
-                                <button type="submit">Envoyer message</button>
-                            </form>
+
+                            <p>En renseignant votre adresse e-mail, vous acceptez nos derniers articles de blog par courier électronique et vous prenez connaissance de notre <a href="View/donwload.php">Politique de confidentialité</a>.
+                                <br><br>
+                                Vous pouvez vous désinscrire à tout moment à l'aide des liens de désincription ou en nous contactant à l'adresse <a href="mailto:direction@entraideetculture.be"> direction@entraideetculture.be</a>
+
+                            </p>
                         </div>
                     </div>
                 </div>
+                <div class="formeinfo1">
+                   <div class="col-lg-4 col-md-4 padbot30 our_office_wrap">
+                       <div id="contact-form">
+                           <div id="sendmessage">Votre message a été bien envoyé. Merci!</div>
+                           <form class="contactForm" action="Controller/PublicController" method="post" >
+                               <div class="form-group">
+                                   <input id="name" type="text" name="name" placeholder="Nom" data-rule="maxlen:4" data-msg="SVP, entrer minimun 4 charactères" />
+                                   <div class="validation"></div>
+                               </div>
+                               <div class="form-group">
+                                   <input id="email" type="email" name="email" placeholder="E-mail" data-rule="email" data-msg="Votre e-mail" />
+                                   <div class="validation"></div>
+                               </div>
+                               <div class="form-group">
+                                   <textarea name="message" placeholder="Message" data-rule="required" data-msg="SVP, écrire votre message"></textarea>
+                                   <div class="validation"></div>
+                               </div>
+                               <button type="submit">Envoyer message</button>
+                           </form>
+                       </div>
+                   </div>
+               </div>
                 <div class="formeinfo2">
                     <section id="contacts">
                         <!-- Container contacts -->
@@ -145,5 +158,3 @@
                 <!---------------END conteneur infos pratiques------------------->
             </div>
     </div>
-
-

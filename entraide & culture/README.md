@@ -1,1 +1,0 @@
-# entraide_culture

@@ -20,6 +20,9 @@
     <li class="nav-item">
       <a class="nav-link active" href="./">Liste des articles</a>
     </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="?hautpage">Liste des images</a>
+            </li>
     <li class="nav-item ml-auto">
       <a class="p-2 ml-auto nav-link" href="?deconnect">Déconnexion</a>
     </li>

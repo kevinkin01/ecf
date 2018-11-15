@@ -2,7 +2,7 @@
     <div class="headframe">
         <div class="head-l">
             <div class="socialg">
-                <div class="socialf"><a href="https://www.facebook.com/entraideetculture/" class="social"><img src="View/img/facebook.png" alt="facebook"/></a></div>
+                <div class="socialf"><a href="https://www.facebook.com/entraideetculture/" class="social"><img src="View/img/facebookrond.png" alt="facebook" style="width: 117%"/></a></div>
 
             </div>
             <span class="panel__zoom1 js-zoom">
@@ -12,9 +12,7 @@
                 </span>
         </div>
         <div style="padding:20px;" class="formulaire">
-            <div class="box">
 
-            </div>
         </div>
         <div class="head_T">
             <h1>culture</h1>
@@ -72,7 +70,7 @@
         <div class=column_A>
             <div class=zoom>
                 <div class="col-lg-1 padbot30 gallery_img lorem">
-                    <a href="View/img/culture.png" data-gal="prettyPhoto[gal]"><i></i><img src="View/img/culture.png" alt="" style="width: 100%;" /></a>
+                    <a href="View/img/culture.png" data-gal="prettyPhoto[gal]"><i></i><img src="View/img/culture.png" alt="" style="width: 100%; height: 100%;" /></a>
                 </div>
             </div>
             <div class="imagePara">
@@ -83,61 +81,74 @@
             <div id="myDIVculture"></div>
             <div class="tab">
                 <button class="tablink" onclick="text(event, 'Culture')">Culture</button>
-                <button class="tablink" onclick="text(event, 'Alphabetisation')">Alphabétisation</button>
-                <button class="tablink" onclick="text(event, 'Ecole')">Ecole des devoirs</button>
+                <button class="tablink" onclick="text(event, 'Alphabetisation')">ALPHA / FLE </button>
+                <button class="tablink" onclick="text(event, 'Ecole')">Ecole de devoirs</button>
                 <button class="tablink" onclick="text(event, 'Ntic')">N.T.I.C</button>
             </div>
-            <div class="titleParaPoleCulture">Pôle</div>
+
 
             <div id="Culture" class="tabcontent1">
-                <h2><?php
+                <div class="titleParaPoleCulture"><?php
                     $take = $listView[6];
-                    echo $take->getThetitle();
-                    ?></h2>
-            <div class="paraCulture">
-
-                <br>
-                <br>
-                <?php echo $take->getThetext();
-                ?>
-
-                </div>
-            </div>
-            <div id="Alphabetisation" class="tabcontent1">
+                    echo $take->getSoustitre();
+                    ?></div>
                 <h2><?php
-                    $take = $listView[10];
+
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraCulture">
 
-                    <br>
                     <br>
                     <?php echo $take->getThetext();
                     ?>
 
                 </div>
             </div>
-            <div id="Ecole" class="tabcontent1">
+            <div id="Alphabetisation" class="tabcontent1">
+                <div class="titleParaPoleCulture"><?php
+                    $take = $listView[7];
+                    echo $take->getSoustitre();
+                    ?></div>
                 <h2><?php
-                    $take = $listView[11];
+
                     echo $take->getThetitle();
                     ?></h2>
                 <div class="paraCulture">
 
                     <br>
+                    <?php echo $take->getThetext();
+                    ?>
+
+                </div>
+            </div>
+
+            <div id="Ecole" class="tabcontent1">
+                <div class="titleParaPoleCulture"><?php
+                    $take = $listView[8];
+                    echo $take->getSoustitre();
+                    ?></div>
+                <h2><?php
+
+                    echo $take->getThetitle();
+                    ?></h2>
+                <div class="paraCulture">
+
                     <br>
                     <?php echo $take->getThetext();
                     ?>
                 </div>
             </div>
             <div id="Ntic" class="tabcontent1">
-                <h2><?php
-                    $take = $listView[12];
-                    echo $take->getThetitle();
-                    ?></h2>
+                <div class="titleParaPoleCulture"><?php
+                    $take = $listView[9];
+                    echo $take->getSoustitre();
+                    ?></div>
+                <?php
+
+                echo $take->getThetitle();
+                ?>
                 <div class="paraCulture">
 
-                    <br>
                     <br>
                     <?php echo $take->getThetext();
                     ?>

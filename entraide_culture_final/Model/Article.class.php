@@ -7,7 +7,7 @@
 class Article
 {
     # aaa020 mapping table article
-    private $idarticle, $thetitle, $thetext, $thedate, $authoridauthor,$categoryidcategory;
+    private $idarticle, $thetitle, $thetext, $thedate, $authoridauthor,$categoryidcategory,$soustitre;
 
     # aaa057 attributs from table util for JOIN (see ArticleManager.class.php)
     private $idauthor, $thelogin, $thename;
@@ -169,6 +169,22 @@ class Article
     public function getThename()
     {
         return html_entity_decode($this->thename);
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getSoustitre()
+    {
+        return $this->soustitre;
+    }
+
+    /**
+     * @param mixed $soustitre
+     */
+    public function setSoustitre($soustitre): void
+    {
+        $this->soustitre = $soustitre;
     }
 
 }
